@@ -1,0 +1,368 @@
+`
+### WordPress Environment ###
+
+WordPress address (URL): https://www.hartvoorwijn.nl
+Site address (URL): https://www.hartvoorwijn.nl
+WC Version: 6.2.1
+REST API Version: ✔ 6.2.1
+WC Blocks Version: ✔ 6.7.3
+Action Scheduler Version: ✔ 3.4.0
+WC Admin Version: ✔ 3.1.0
+Log Directory Writable: ✔
+WP Version: 5.9.1
+WP Multisite: –
+WP Memory Limit: 512 MB
+WP Debug Mode: –
+WP Cron: ✔
+Language: nl_NL
+External object cache: –
+
+### Server Environment ###
+
+Server Info: LiteSpeed
+PHP Version: 7.4.27
+PHP Post Max Size: 512 MB
+PHP Time Limit: 300
+PHP Max Input Vars: 5000
+cURL Version: 7.74.0
+NSS/3.53.1
+
+SUHOSIN Installed: –
+MySQL Version: 5.5.5-10.3.32-MariaDB-cll-lve
+Max Upload Size: 512 MB
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+GZip: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔
+
+### Database ###
+
+WC Database Version: 6.2.1
+WC Database Prefix: wpb7_
+Totale databasegrootte: 269.73MB
+Database datagrootte: 245.25MB
+Database index grootte: 24.48MB
+wpb7_woocommerce_sessions: Data: 0.05MB + Index: 0.02MB + Engine InnoDB
+wpb7_woocommerce_api_keys: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_woocommerce_attribute_taxonomies: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_woocommerce_downloadable_product_permissions: Data: 0.06MB + Index: 0.09MB + Engine InnoDB
+wpb7_woocommerce_order_items: Data: 0.09MB + Index: 0.05MB + Engine InnoDB
+wpb7_woocommerce_order_itemmeta: Data: 1.52MB + Index: 0.56MB + Engine InnoDB
+wpb7_woocommerce_tax_rates: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+wpb7_woocommerce_tax_rate_locations: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_woocommerce_shipping_zones: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_woocommerce_shipping_zone_locations: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_woocommerce_shipping_zone_methods: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_woocommerce_payment_tokens: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_woocommerce_payment_tokenmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_woocommerce_log: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_actionscheduler_actions: Data: 0.48MB + Index: 0.69MB + Engine InnoDB
+wpb7_actionscheduler_claims: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_actionscheduler_groups: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_actionscheduler_logs: Data: 0.36MB + Index: 0.31MB + Engine InnoDB
+wpb7_addonlibrary_addons: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_addonlibrary_categories: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_cmplz_cookiebanners: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_cmplz_cookies: Data: 0.06MB + Index: 0.00MB + Engine InnoDB
+wpb7_cmplz_services: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_commentmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_comments: Data: 0.50MB + Index: 0.47MB + Engine InnoDB
+wpb7_defender_audit_log: Data: 0.02MB + Index: 0.08MB + Engine InnoDB
+wpb7_defender_email_log: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_defender_lockout: Data: 0.39MB + Index: 0.53MB + Engine InnoDB
+wpb7_defender_lockout_log: Data: 0.09MB + Index: 0.05MB + Engine InnoDB
+wpb7_defender_scan: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_defender_scan_item: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_ee_products_sync_list: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ee_product_sync_call: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ee_product_sync_data: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ee_product_sync_profile: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ee_prouct_pre_sync_data: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_e_submissions: Data: 0.05MB + Index: 0.27MB + Engine InnoDB
+wpb7_e_submissions_actions_log: Data: 0.02MB + Index: 0.11MB + Engine InnoDB
+wpb7_e_submissions_values: Data: 0.08MB + Index: 0.03MB + Engine InnoDB
+wpb7_gdpr_cc_options: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ig_blocked_emails: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ig_campaigns: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ig_contacts: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ig_contacts_ips: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_ig_forms: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ig_lists: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ig_lists_contacts: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ig_mailing_queue: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ig_sending_queue: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_ld_notifications_delayed_emails: Data: 0.36MB + Index: 0.00MB + Engine InnoDB
+wpb7_learndash_pro_quiz_category: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_learndash_pro_quiz_form: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_learndash_pro_quiz_lock: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_learndash_pro_quiz_master: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_learndash_pro_quiz_prerequisite: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_learndash_pro_quiz_question: Data: 0.14MB + Index: 0.03MB + Engine InnoDB
+wpb7_learndash_pro_quiz_statistic: Data: 0.06MB + Index: 0.00MB + Engine InnoDB
+wpb7_learndash_pro_quiz_statistic_ref: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_learndash_pro_quiz_template: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_learndash_pro_quiz_toplist: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_learndash_user_activity: Data: 0.14MB + Index: 0.48MB + Engine InnoDB
+wpb7_learndash_user_activity_meta: Data: 0.05MB + Index: 0.03MB + Engine InnoDB
+wpb7_links: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_custom_fields: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_dynamic_segment_filters: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_feature_flags: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_forms: Data: 0.05MB + Index: 0.00MB + Engine InnoDB
+wpb7_mailpoet_log: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_mailpoet_mapping_to_external_entities: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_newsletters: Data: 1.39MB + Index: 0.03MB + Engine InnoDB
+wpb7_mailpoet_newsletter_links: Data: 0.47MB + Index: 0.63MB + Engine InnoDB
+wpb7_mailpoet_newsletter_option: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_newsletter_option_fields: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_newsletter_posts: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_newsletter_segment: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_newsletter_templates: Data: 6.52MB + Index: 0.00MB + Engine InnoDB
+wpb7_mailpoet_scheduled_tasks: Data: 0.33MB + Index: 0.25MB + Engine InnoDB
+wpb7_mailpoet_scheduled_task_subscribers: Data: 1.52MB + Index: 0.25MB + Engine InnoDB
+wpb7_mailpoet_segments: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_mailpoet_sending_queues: Data: 27.52MB + Index: 0.03MB + Engine InnoDB
+wpb7_mailpoet_settings: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_statistics_bounces: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_mailpoet_statistics_clicks: Data: 0.08MB + Index: 0.13MB + Engine InnoDB
+wpb7_mailpoet_statistics_forms: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_statistics_newsletters: Data: 0.45MB + Index: 0.44MB + Engine InnoDB
+wpb7_mailpoet_statistics_opens: Data: 0.30MB + Index: 0.77MB + Engine InnoDB
+wpb7_mailpoet_statistics_unsubscribes: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+wpb7_mailpoet_statistics_woocommerce_purchases: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+wpb7_mailpoet_stats_notifications: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_mailpoet_subscribers: Data: 0.13MB + Index: 0.19MB + Engine InnoDB
+wpb7_mailpoet_subscriber_custom_field: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_subscriber_ips: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_subscriber_segment: Data: 0.08MB + Index: 0.03MB + Engine InnoDB
+wpb7_mailpoet_user_agents: Data: 0.11MB + Index: 0.02MB + Engine InnoDB
+wpb7_mailpoet_user_flags: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_mollie_pending_payment: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_newsletter: Data: 0.06MB + Index: 0.03MB + Engine InnoDB
+wpb7_newsletter_emails: Data: 0.36MB + Index: 0.00MB + Engine InnoDB
+wpb7_newsletter_sent: Data: 0.06MB + Index: 0.03MB + Engine InnoDB
+wpb7_newsletter_stats: Data: 0.09MB + Index: 0.03MB + Engine InnoDB
+wpb7_newsletter_user_logs: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_options: Data: 16.05MB + Index: 0.23MB + Engine InnoDB
+wpb7_postmeta: Data: 96.22MB + Index: 5.34MB + Engine InnoDB
+wpb7_posts: Data: 31.14MB + Index: 0.38MB + Engine InnoDB
+wpb7_rank_math_404_logs: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_rank_math_analytics_gsc: Data: 4.52MB + Index: 7.84MB + Engine InnoDB
+wpb7_rank_math_analytics_objects: Data: 0.13MB + Index: 0.05MB + Engine InnoDB
+wpb7_rank_math_internal_links: Data: 0.13MB + Index: 0.05MB + Engine InnoDB
+wpb7_rank_math_internal_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_rank_math_redirections: Data: 0.06MB + Index: 0.02MB + Engine InnoDB
+wpb7_rank_math_redirections_cache: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_responsive_menu: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_sender_automated_emails_carts: Data: 0.16MB + Index: 0.00MB + Engine InnoDB
+wpb7_sender_automated_emails_users: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_smush_dir_images: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_termmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_terms: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_term_relationships: Data: 0.05MB + Index: 0.02MB + Engine InnoDB
+wpb7_term_taxonomy: Data: 0.16MB + Index: 0.03MB + Engine InnoDB
+wpb7_tm_taskmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_tm_tasks: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_trp_gettext_nl_nl: Data: 1.52MB + Index: 0.52MB + Engine InnoDB
+wpb7_trp_original_meta: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+wpb7_trp_original_strings: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_usermeta: Data: 1.39MB + Index: 0.55MB + Engine InnoDB
+wpb7_users: Data: 0.06MB + Index: 0.05MB + Engine InnoDB
+wpb7_wc_admin_notes: Data: 0.06MB + Index: 0.00MB + Engine InnoDB
+wpb7_wc_admin_note_actions: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_wc_category_lookup: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_wc_customer_lookup: Data: 0.06MB + Index: 0.03MB + Engine InnoDB
+wpb7_wc_download_log: Data: 0.05MB + Index: 0.03MB + Engine InnoDB
+wpb7_wc_order_coupon_lookup: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_wc_order_product_lookup: Data: 0.09MB + Index: 0.06MB + Engine InnoDB
+wpb7_wc_order_stats: Data: 0.08MB + Index: 0.05MB + Engine InnoDB
+wpb7_wc_order_tax_lookup: Data: 0.06MB + Index: 0.03MB + Engine InnoDB
+wpb7_wc_product_meta_lookup: Data: 0.02MB + Index: 0.09MB + Engine InnoDB
+wpb7_wc_rate_limits: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_wc_reserved_stock: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_wc_tax_rate_classes: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_wc_webhooks: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_wpforms_tasks_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpb7_wpr_rucss_resources: Data: 34.03MB + Index: 0.39MB + Engine InnoDB
+wpb7_wpr_rucss_used_css: Data: 11.52MB + Index: 0.05MB + Engine InnoDB
+wpb7_yoast_indexable: Data: 1.52MB + Index: 0.47MB + Engine InnoDB
+wpb7_yoast_indexable_hierarchy: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+wpb7_yoast_migrations: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpb7_yoast_primary_term: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpb7_yoast_seo_links: Data: 0.31MB + Index: 0.20MB + Engine InnoDB
+wpb7_yoast_seo_meta: Data: 0.06MB + Index: 0.00MB + Engine InnoDB
+
+### Post Type Counts ###
+
+attachment: 773
+custom_css: 2
+custom-css-js: 1
+customize_changeset: 1
+elementor_font: 1
+elementor_icons: 4
+elementor_library: 37
+envato_tk_import: 4
+es_template: 2
+feedback: 7
+groups: 1
+is_search_form: 1
+jp_img_sitemap: 1
+jp_sitemap: 1
+jp_sitemap_master: 1
+language_switcher: 2
+ld-notification: 3
+mailpoet_page: 1
+mc4wp-form: 1
+nav_menu_item: 28
+oembed_cache: 14
+page: 32
+post: 63
+product: 17
+product_variation: 16
+revision: 305
+sfwd-certificates: 2
+sfwd-courses: 2
+sfwd-lessons: 26
+sfwd-question: 67
+sfwd-quiz: 3
+sfwd-topic: 97
+shop_coupon: 45
+shop_order: 505
+shop_order_refund: 49
+web-story: 1
+whatsapp-accounts: 1
+wp_global_styles: 1
+
+### Security ###
+
+Secure connection (HTTPS): ✔
+Hide errors from visitors: ✔
+
+### Active Plugins (33) ###
+
+All-in-One WP Migration: door ServMask – 7.56
+Complianz | GDPR/CCPA Cookie Consent: door Really Simple Plugins – 6.1.0.1
+Defender: door WPMU DEV – 2.7.1
+Google Tag Manger voor WordPress: door Thomas Geiger – 1.14.2
+Elementor Pro: door Elementor.com – 3.6.2
+Elementor: door Elementor.com – 3.5.5
+Enable Media Replace: door ShortPixel – 3.6.3
+Facebook for WooCommerce: door Facebook – 2.6.11
+Kadence WooCommerce Email Designer: door Kadence WP – 1.4.10
+LearnDash LMS - Certificate Builder: door LearnDash – 1.0.3
+LearnDash LMS - Course Grid: door LearnDash – 2.0.4
+LearnDash LMS - Elementor: door LearnDash – 1.0.3
+LearnDash LMS - Notifications: door LearnDash – 1.5.3
+LearnDash LMS - WooCommerce Integration: door LearnDash – 1.9.3.3
+MailPoet 3 Premium (New): door MailPoet – 3.82.0
+MailPoet 3 (New): door MailPoet – 3.82.0
+Mollie-betalingen voor WooCommerce: door Mollie – 7.0.2
+Premium Addons for Elementor: door Leap13 – 4.8.9
+Really Simple SSL: door Really Simple Plugins – 5.2.3
+Sender.net email marketing: door Sender – 2.0.4
+Rank Math SEO: door Rank Math – 1.0.83
+LearnDash LMS: door LearnDash – 3.6.0.3
+ShortPixel Adaptive Images: door ShortPixel – 3.2.2
+Swatchly - Variation Swatches for WooCommerce Products: door HasThemes – 1.1.1
+TranslatePress - Multilingual: door Cozmoslabs
+Razvan Mocanu
+Madalin Ungureanu
+Cristophor Hurduban – 2.2.1
+
+Unlimited Elements for Elementor: door Unlimited Elements – 1.5.1
+UpdraftPlus - Backup/Restore: door UpdraftPlus.Com
+DavidAnderson – 1.22.5
+
+WebP Express: door Bjørn Rosell – 0.25.0
+WooCommerce Google Analytics Integration: door WooCommerce – 1.5.8
+WooCommerce: door Automattic – 6.2.1
+WP Rocket | Enforce Trailing Slash on URLs: door WP Rocket Support Team –
+WP Rocket: door WP Media – 3.10.8
+WP Chat App: door NinjaTeam – 3.1.4
+
+### Inactive Plugins (2) ###
+
+LearnDash Content Cloner: door WisdmLabs – 1.3.0
+Smush: door WPMU DEV – 3.9.5
+
+### Dropin Plugins (2) ###
+
+advanced-cache.php: advanced-cache.php
+maintenance.php: maintenance.php
+
+### Must Use Plugins (1) ###
+
+LearnDash LMS Multisite: door LearnDash – 1.0.0
+
+### Settings ###
+
+API Enabled: –
+Force SSL: –
+Currency: EUR (€)
+Currency Position: left
+Thousand Separator: .
+Decimal Separator: ,
+Number of Decimals: 2
+Taxonomies: Product Types: course (course)
+external (external)
+grouped (grouped)
+simple (simple)
+variable (variable)
+
+Taxonomies: Product Visibility: exclude-from-catalog (exclude-from-catalog)
+exclude-from-search (exclude-from-search)
+featured (featured)
+outofstock (outofstock)
+rated-1 (rated-1)
+rated-2 (rated-2)
+rated-3 (rated-3)
+rated-4 (rated-4)
+rated-5 (rated-5)
+
+Connected to WooCommerce.com: –
+
+### WC Pages ###
+
+Winkelbasis: #2651 - /agenda/
+Winkelwagen: #2652 - /winkelmand/
+Afrekenen: #2653 - /afrekenen/
+Mijn account: #2654 - /mijn-account/
+Algemene voorwaarden: #1229 - /algemene-voorwaarden/
+
+### Theme ###
+
+Name: Astra
+Version: 3.7.7 (update naar versie 3.7.9 is beschikbaar)
+Author URL: https://wpastra.com/about/?utm_source=theme_preview&utm_medium=author_link&utm_campaign=astra_theme
+Child Theme: ❌ – Als je wijzigingen aanbrengt in WooCommerce of in een hoofdthema dat je niet zelf gebouwd hebt
+raden we het gebruik van een sub-thema aan. Zie: Hoe maak je een sub-thema
+
+WooCommerce Support: ✔
+
+### Templates ###
+
+Overrides: –
+
+### Action Scheduler ###
+
+Complete: 1.507
+Oldest: 2022-02-06 15:48:28 +0000
+Newest: 2022-03-04 16:06:59 +0000
+
+Failed: 16
+Oldest: –
+Newest: –
+
+Pending: 4
+Oldest: 2022-03-05 08:35:57 +0000
+Newest: 2022-03-22 17:28:47 +0000
+
+
+### Status report information ###
+
+Generated at: 2022-03-04 16:45:09 +00:00
+`
